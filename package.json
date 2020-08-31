@@ -1,0 +1,38 @@
+{
+  "name": "here-maps-svelte",
+  "svelte": "src/index.js",
+  "module": "dist/index.mjs",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "rollup -c",
+    "prepublishOnly": "npm run build"
+  },
+  "devDependencies": {
+    "@rollup/plugin-node-resolve": "^6.0.0",
+    "rollup": "^1.20.0",
+    "rollup-plugin-svelte": "^5.0.0",
+    "svelte": "^3.0.0"
+  },
+  "keywords": [
+    "svelte",
+    "here maps",
+    "maps"
+  ],
+  "files": [
+    "src",
+    "dist"
+  ],
+  "description": "Svelte Wrapper for Here Maps",
+  "version": "0.0.3",
+  "author": "Shriji Kondan",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peopledrivemecrazy/here-maps-svelte.git"
+  },
+  "bugs": {
+    "url": "https://github.com/peopledrivemecrazy/here-maps-svelte/issues"
+  },
+  "homepage": "https://github.com/peopledrivemecrazy/here-maps-svelte#readme"
+}
+
