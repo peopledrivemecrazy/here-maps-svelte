@@ -33,7 +33,6 @@
         },
         () => {
           H = window.H;
-          console.log(H);
           //   map = H.map;
           mapsLoaded.set(true);
           return true;

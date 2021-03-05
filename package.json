@@ -23,7 +23,7 @@
     "dist"
   ],
   "description": "Svelte Wrapper for Here Maps",
-  "version": "0.0.5",
+  "version": "0.0.5-1",
   "author": "Shriji Kondan",
   "license": "MIT",
   "repository": {
