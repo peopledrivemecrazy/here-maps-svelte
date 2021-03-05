@@ -1,4 +1,1 @@
-
-import Component from "./Component.svelte";
-export default Component;
-
+export { default as default } from './Map.svelte';
