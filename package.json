@@ -23,7 +23,7 @@
     "dist"
   ],
   "description": "Svelte Wrapper for Here Maps",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "author": "Shriji Kondan",
   "license": "MIT",
   "repository": {
@@ -34,7 +34,5 @@
     "url": "https://github.com/peopledrivemecrazy/here-maps-svelte/issues"
   },
   "homepage": "https://github.com/peopledrivemecrazy/here-maps-svelte#readme",
-  "dependencies": {
-    "@beyonk/async-script-loader": "^2.0.0"
-  }
+  "dependencies": {}
 }

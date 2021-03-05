@@ -1,5 +1,5 @@
 <script>
-  import loader from "@beyonk/async-script-loader";
+  import loader from "./loader";
   import { createEventDispatcher, onMount } from "svelte";
   import { mapsLoaded, mapsLoading } from "./stores.js";
   const dispatch = createEventDispatcher();
